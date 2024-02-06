@@ -50,6 +50,12 @@
       @media (max-width: #{$breakpoint_tablet_910}) {
         @content;
       }
+    }
+    
+    @mixin breakpoint_tablet_900 {
+      @media (max-width: #{$breakpoint_tablet_900}) {
+        @content;
+      }
     }    
 
     @mixin breakpoint_tablet_768 {

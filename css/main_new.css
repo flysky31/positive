@@ -48,13 +48,13 @@
   background-repeat: no-repeat;
 }
 #deps01 .mainSwiper .swiper-slide.slide01 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide.slide02 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide.slide03 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide .txt {
   height: 100%;
@@ -293,7 +293,7 @@
   transform: skew(-0.1deg);
 }
 #deps02 article .swiper_area .swiper-button-next {
-  background: url("/img/academy_next.png") no-repeat center/90px auto;
+  background: url("../img/academy_next.png") no-repeat center/90px auto;
   right: -45px;
   width: 90px;
   transform: translateY(-50%);
@@ -301,7 +301,7 @@
   height: 90px;
 }
 #deps02 article .swiper_area .swiper-button-prev {
-  background: url("/img/academy_prev.png") no-repeat center/90px auto;
+  background: url("../img/academy_prev.png") no-repeat center/90px auto;
   left: -45px;
   right: auto;
   width: 90px;
@@ -514,12 +514,12 @@
   width: 50px;
   height: 105px;
   transform: translateY(-70%);
-  background: url("/img/thumb_next.png") no-repeat center/47px auto;
+  background: url("../img/thumb_next.png") no-repeat center/47px auto;
 }
 #deps03 .swiper-button-prev {
   left: 0;
   transform: translateY(-70%);
-  background: url("/img/thumb_prev.png") no-repeat center/47px auto;
+  background: url("../img/thumb_prev.png") no-repeat center/47px auto;
   width: 50px;
   height: 105px;
 }
@@ -1017,10 +1017,10 @@
     width: 88%;
   }
   #deps03 .swiper-button-next {
-    background: url("/img/thumb_next.png") no-repeat center/30px auto;
+    background: url("../img/thumb_next.png") no-repeat center/30px auto;
   }
   #deps03 .swiper-button-prev {
-    background: url("/img/thumb_prev.png") no-repeat center/30px auto;
+    background: url("../img/thumb_prev.png") no-repeat center/30px auto;
   }
   #deps03 .swiper-pagination-bullet {
     width: 15px;
@@ -1105,13 +1105,13 @@
     margin: 10px 0 0;
   }
   #deps02 article .swiper_area .swiper-button-prev {
-    background: url("/img/academy_prev.png") no-repeat center/60px auto;
+    background: url("../img/academy_prev.png") no-repeat center/60px auto;
     width: 65px;
     height: 65px;
     left: -33px;
   }
   #deps02 article .swiper_area .swiper-button-next {
-    background: url("/img/academy_next.png") no-repeat center/60px auto;
+    background: url("../img/academy_next.png") no-repeat center/60px auto;
     width: 65px;
     height: 65px;
     right: -33px;
@@ -1244,13 +1244,13 @@
     padding: 25px 0;
   }
   #deps02 article .swiper_area .swiper-button-prev {
-    background: url("/img/academy_prev.png") no-repeat center/55px auto;
+    background: url("../img/academy_prev.png") no-repeat center/55px auto;
     left: -25px;
     width: 55px;
     height: 55px;
   }
   #deps02 article .swiper_area .swiper-button-next {
-    background: url("/img/academy_next.png") no-repeat center/55px auto;
+    background: url("../img/academy_next.png") no-repeat center/55px auto;
     right: -25px;
     width: 55px;
     height: 55px;
@@ -1288,10 +1288,10 @@
     height: 50px;
   }
   #deps03 .swiper-button-next {
-    background: url("/img/thumb_next.png") no-repeat center/20px auto;
+    background: url("../img/thumb_next.png") no-repeat center/20px auto;
   }
   #deps03 .swiper-button-prev {
-    background: url("/img/thumb_prev.png") no-repeat center/20px auto;
+    background: url("../img/thumb_prev.png") no-repeat center/20px auto;
   }
   #deps04 .thumb_box ul li {
     width: 100%;
