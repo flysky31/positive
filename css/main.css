@@ -48,13 +48,13 @@
   background-repeat: no-repeat;
 }
 #deps01 .mainSwiper .swiper-slide.slide01 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide.slide02 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide.slide03 {
-  background-image: url("/img/main_visual.jpg");
+  background-image: url("../img/main_visual.jpg");
 }
 #deps01 .mainSwiper .swiper-slide .txt {
   height: 100%;
