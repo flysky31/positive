@@ -180,7 +180,8 @@ box-shadow: inset 0 2px 5px  rgba(255,255,255,0.3);}
 .pg_next {background:url(../img/btn_next.gif) no-repeat 50% 50% #eee;width:35px;height:35px ;text-indent:-999px;overflow:hidden}
 .pg_end {background:url(../img/btn_end.gif) no-repeat 50% 50% #eee;width:35px;height:35px ;text-indent:-999px;overflow:hidden}
 .pg_current {display:inline-block;background:#494949;color:#fff;font-weight:normal;line-height:35px;}
-
+.msg_sound_only, .sound_only{display: inline-block; position: absolute;top: 0;left: 0;margin: 0 !important;padding: 0 !important; width: 1px !important;
+    height: 1px !important; font-size: 0 !important;line-height: 0 !important; overflow: hidden;}
 
 /* 게시판 쓰기 */
 #char_count_desc {display:block;margin:0 0 5px;padding:0}
